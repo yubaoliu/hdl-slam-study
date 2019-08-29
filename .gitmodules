@@ -1,9 +1,6 @@
 [submodule "hdl_graph_slam"]
 	path = hdl_graph_slam
 	url = https://github.com/yubaoliu/hdl_graph_slam.git
-[submodule "monocular_person_following"]
-	path = monocular_person_following
-	url = https://github.com/yubaoliu/monocular_person_following.git
 [submodule "hdl_people_tracking"]
 	path = hdl_people_tracking
 	url = https://github.com/yubaoliu/hdl_people_tracking.git
